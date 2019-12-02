@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [UDE_Portalen]">
+  <test thread-count="5" name="Functional(failed)">
+    <parameter name="mobile" value="android"/>
+    <classes>
+      <class name="com.ude.portalen.testcases.PhotosApp_TC1">
+        <methods>
+          <include name="photosAppViewSetup"/>
+        </methods>
+      </class> <!-- com.ude.portalen.testcases.PhotosApp_TC1 -->
+    </classes>
+  </test> <!-- Functional(failed) -->
+</suite> <!-- Failed suite [UDE_Portalen] -->

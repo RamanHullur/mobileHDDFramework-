@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="UDE_Portalen" duration-ms="57471" started-at="2019-10-21T16:54:02 IST" finished-at="2019-10-21T16:54:59 IST">
+    <groups>
+    </groups>
+    <test name="Functional" duration-ms="57471" started-at="2019-10-21T16:54:02 IST" finished-at="2019-10-21T16:54:59 IST">
+      <class name="com.ude.portalen.testcases.PhotosApp_TC1">
+        <test-method status="PASS" signature="photosAppViewSetup(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ude.portalen.testcases.PhotosApp_TC1@29176cc1]" name="photosAppViewSetup" duration-ms="56572" started-at="2019-10-21T16:54:02 IST" data-provider="testData" finished-at="2019-10-21T16:54:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Val1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Val2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Val3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- photosAppViewSetup -->
+      </class> <!-- com.ude.portalen.testcases.PhotosApp_TC1 -->
+    </test> <!-- Functional -->
+  </suite> <!-- UDE_Portalen -->
+</testng-results>

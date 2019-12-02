@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="UDE_Portalen" parallel="false">
+
+	<!-- <listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners> -->
+
+	<!-- Test Cases -->
+	<test name="Functional">
+		<parameter name="mobile" value="android" />
+		<classes>
+			<class name="com.ude.portalen.testcases.PhotosApp_TC1"/> 
+			<!-- <class name="com.ude.portalen.testcases.SettingsApp_TC2"/> 
+			<class name="com.ude.portalen.testcases.TwoApps_TC3"/>
+			<class name="com.ude.portalen.testcases.MobileToWeb_TC4"/> -->
+		</classes>
+	</test>
+
+</suite> 

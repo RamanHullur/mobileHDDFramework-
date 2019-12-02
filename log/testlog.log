@@ -1,0 +1,404 @@
+2019-09-25 16:35:05,356 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-25 16:35:05,875 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-25 16:35:08,130 - UDE Portalen -INFO - Overflow clicked
+2019-09-25 16:35:10,775 - UDE Portalen -INFO - Layout option clicked
+2019-09-25 16:35:13,112 - UDE Portalen -INFO - Month View clicked
+2019-09-25 16:35:21,704 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-09-25 16:35:21,705 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-25 17:44:16,278 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-25 17:44:16,857 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-25 17:44:19,134 - UDE Portalen -INFO - Overflow clicked
+2019-09-25 17:44:21,566 - UDE Portalen -INFO - Layout option clicked
+2019-09-25 17:44:23,949 - UDE Portalen -INFO - Month View clicked
+2019-09-25 17:44:32,648 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-09-25 17:44:32,649 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 13:03:23,672 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 13:03:24,494 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-26 13:03:27,231 - UDE Portalen -INFO - Overflow clicked
+2019-09-26 13:03:29,868 - UDE Portalen -INFO - Layout option clicked
+2019-09-26 13:03:32,499 - UDE Portalen -INFO - Month View clicked
+2019-09-26 13:03:55,146 - UDE Portalen -WARN - Verification: Photos view didn't not changed to Month view
+2019-09-26 13:03:55,146 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 13:07:32,284 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 13:07:32,907 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-26 13:07:35,113 - UDE Portalen -INFO - Overflow clicked
+2019-09-26 13:07:37,614 - UDE Portalen -INFO - Layout option clicked
+2019-09-26 13:07:39,932 - UDE Portalen -INFO - Month View clicked
+2019-09-26 13:08:20,452 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-09-26 13:08:20,453 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 15:25:28,946 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 15:25:29,589 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-26 15:25:31,828 - UDE Portalen -INFO - Overflow clicked
+2019-09-26 15:25:34,372 - UDE Portalen -INFO - Layout option clicked
+2019-09-26 15:25:36,823 - UDE Portalen -INFO - Month View clicked
+2019-09-26 15:26:18,844 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 15:36:10,454 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 15:36:11,010 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-26 15:36:13,219 - UDE Portalen -INFO - Overflow clicked
+2019-09-26 15:36:15,764 - UDE Portalen -INFO - Layout option clicked
+2019-09-26 15:36:18,105 - UDE Portalen -INFO - Month View clicked
+2019-09-26 15:36:58,803 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 15:39:58,617 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 15:39:59,364 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-26 15:40:01,586 - UDE Portalen -INFO - Overflow clicked
+2019-09-26 15:40:04,256 - UDE Portalen -INFO - Layout option clicked
+2019-09-26 15:40:06,676 - UDE Portalen -INFO - Month View clicked
+2019-09-26 15:40:47,994 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 15:46:15,100 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 15:46:15,798 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-26 15:46:17,998 - UDE Portalen -INFO - Overflow clicked
+2019-09-26 15:46:20,514 - UDE Portalen -INFO - Layout option clicked
+2019-09-26 15:46:22,880 - UDE Portalen -INFO - Month View clicked
+2019-09-26 15:46:51,439 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-09-26 15:46:51,439 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 15:50:41,638 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 15:50:42,151 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-26 15:50:44,384 - UDE Portalen -INFO - Overflow clicked
+2019-09-26 15:50:46,858 - UDE Portalen -INFO - Layout option clicked
+2019-09-26 15:50:49,264 - UDE Portalen -INFO - Month View clicked
+2019-09-26 15:51:17,177 - UDE Portalen -INFO - Validation Completed
+2019-09-26 15:51:17,180 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 16:40:28,976 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 16:40:29,528 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-26 16:40:31,773 - UDE Portalen -INFO - Overflow clicked
+2019-09-26 16:40:34,344 - UDE Portalen -INFO - Layout option clicked
+2019-09-26 16:40:36,666 - UDE Portalen -INFO - Month View clicked
+2019-09-26 16:48:45,942 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 16:49:09,273 - UDE Portalen -INFO - Validation Failed
+2019-09-26 16:49:09,274 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 16:51:58,268 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 16:52:22,136 - UDE Portalen -INFO - Validation Failed
+2019-09-26 16:52:22,493 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 16:54:51,578 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 16:55:15,575 - UDE Portalen -INFO - Validation Failed
+2019-09-26 16:55:15,576 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 16:58:25,864 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 16:58:49,462 - UDE Portalen -INFO - Validation Failed
+2019-09-26 16:58:49,463 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 17:04:21,853 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 17:04:45,828 - UDE Portalen -INFO - Validation Failed
+2019-09-26 17:04:45,828 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 17:23:55,275 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 17:24:19,433 - UDE Portalen -INFO - Validation Failed
+2019-09-26 17:24:19,434 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 17:27:24,485 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 17:27:25,096 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-26 17:27:27,319 - UDE Portalen -INFO - Overflow clicked
+2019-09-26 17:27:29,856 - UDE Portalen -INFO - Layout option clicked
+2019-09-26 17:27:32,208 - UDE Portalen -INFO - Month View clicked
+2019-09-26 17:33:17,169 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 17:33:17,967 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-26 17:33:20,578 - UDE Portalen -INFO - Overflow clicked
+2019-09-26 17:33:23,041 - UDE Portalen -INFO - Layout option clicked
+2019-09-26 17:33:25,344 - UDE Portalen -INFO - Month View clicked
+2019-09-26 17:33:57,910 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-26 17:36:07,191 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-26 17:36:07,755 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-26 17:36:09,958 - UDE Portalen -INFO - Overflow clicked
+2019-09-26 17:36:12,485 - UDE Portalen -INFO - Layout option clicked
+2019-09-26 17:36:14,834 - UDE Portalen -INFO - Month View clicked
+2019-09-26 17:36:49,947 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-27 10:47:51,325 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-27 10:47:52,070 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-27 10:47:54,697 - UDE Portalen -INFO - Overflow clicked
+2019-09-27 10:47:57,345 - UDE Portalen -INFO - Layout option clicked
+2019-09-27 10:47:59,787 - UDE Portalen -INFO - Month View clicked
+2019-09-27 10:48:06,860 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-27 10:54:48,547 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-27 10:54:49,002 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-27 10:54:51,231 - UDE Portalen -INFO - Overflow clicked
+2019-09-27 10:54:53,731 - UDE Portalen -INFO - Layout option clicked
+2019-09-27 10:54:56,074 - UDE Portalen -INFO - Month View clicked
+2019-09-27 10:55:02,847 - UDE Portalen -INFO -  ====Photos App View Changed to Month View!!===
+2019-09-27 11:05:30,466 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-27 11:05:31,011 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-27 11:05:33,276 - UDE Portalen -INFO - Overflow clicked
+2019-09-27 11:05:35,835 - UDE Portalen -INFO - Layout option clicked
+2019-09-27 11:05:38,186 - UDE Portalen -INFO - Month View clicked
+2019-09-27 11:05:45,916 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-09-27 11:05:45,917 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-09-30 11:54:32,365 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-30 11:54:32,810 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-30 11:54:35,513 - UDE Portalen -INFO - Overflow clicked
+2019-09-30 11:54:38,066 - UDE Portalen -INFO - Layout option clicked
+2019-09-30 11:54:40,931 - UDE Portalen -INFO - Month View clicked
+2019-09-30 11:55:06,433 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-09-30 11:55:06,433 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-09-30 12:09:19,091 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-09-30 12:09:19,579 - UDE Portalen -INFO - Confirm Button clicked
+2019-09-30 12:09:21,763 - UDE Portalen -INFO - Overflow clicked
+2019-09-30 12:09:24,278 - UDE Portalen -INFO - Layout option clicked
+2019-09-30 12:09:26,575 - UDE Portalen -INFO - Month View clicked
+2019-09-30 12:09:54,510 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-09-30 12:09:54,511 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-01 15:15:36,917 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-01 15:15:37,547 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-01 15:15:40,239 - UDE Portalen -INFO - Overflow clicked
+2019-10-01 15:15:42,859 - UDE Portalen -INFO - Layout option clicked
+2019-10-01 15:15:45,320 - UDE Portalen -INFO - Month View clicked
+2019-10-01 15:16:07,699 - UDE Portalen -WARN - Verification: Photos view didn't not changed to Month view
+2019-10-01 15:16:07,700 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-01 15:18:04,315 - UDE Portalen -INFO - Settings App Test Launch -Pass
+2019-10-01 15:18:39,639 - UDE Portalen -INFO - Catch block Test
+2019-10-01 15:18:39,639 - UDE Portalen -INFO - ======== Test Log Completed Here ==========
+2019-10-01 15:19:59,335 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-01 15:20:00,089 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-01 15:20:02,772 - UDE Portalen -INFO - Overflow clicked
+2019-10-01 15:20:05,297 - UDE Portalen -INFO - Layout option clicked
+2019-10-01 15:20:09,596 - UDE Portalen -INFO - Month View clicked
+2019-10-01 15:20:33,644 - UDE Portalen -INFO - Verification: Photos view didn't not changed to Month view
+2019-10-01 15:20:33,644 - UDE Portalen -INFO - ======== Test Log Completed Here ==========
+2019-10-01 15:21:30,134 - UDE Portalen -INFO - Settings App Test Launch -Pass
+2019-10-01 15:21:31,049 - UDE Portalen -INFO - Sounds and Vibraion option clicked
+2019-10-01 15:21:36,806 - UDE Portalen -INFO - Ringtone option clicked
+2019-10-01 15:21:39,794 - UDE Portalen -INFO - Notifications option clicked
+2019-10-01 15:21:43,283 - UDE Portalen -INFO - Type of notification option clicked
+2019-10-01 15:22:04,693 - UDE Portalen -INFO - Verification: Piono ringtone is selected
+2019-10-01 15:22:04,693 - UDE Portalen -INFO - ======== Test Log Completed Here ==========
+2019-10-01 15:23:02,528 - UDE Portalen -INFO - Settings App Test Launch -Pass
+2019-10-01 15:23:03,561 - UDE Portalen -INFO - Connections option clicked
+2019-10-01 15:23:09,189 - UDE Portalen -INFO - DataUsage option clicked
+2019-10-01 15:23:12,634 - UDE Portalen -INFO - WiFiDataUsage option clicked
+2019-10-01 15:23:16,256 - UDE Portalen -INFO - Spinner clicked
+2019-10-01 15:23:19,557 - UDE Portalen -INFO - Duration option clicked
+2019-10-01 15:23:42,115 - UDE Portalen -INFO - Verification: Duration view changed
+2019-10-01 15:23:55,789 - UDE Portalen -INFO - ======== Test Log Completed Here ==========
+2019-10-01 15:28:45,356 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-01 15:28:45,875 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-01 15:28:48,051 - UDE Portalen -INFO - Overflow clicked
+2019-10-01 15:28:50,555 - UDE Portalen -INFO - Layout option clicked
+2019-10-01 15:28:52,877 - UDE Portalen -INFO - Month View clicked
+2019-10-01 15:29:20,441 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-10-01 15:29:20,442 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-01 15:32:47,648 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-01 15:32:48,233 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-01 15:32:50,490 - UDE Portalen -INFO - Overflow clicked
+2019-10-01 15:32:52,988 - UDE Portalen -INFO - Layout option clicked
+2019-10-01 15:32:55,314 - UDE Portalen -INFO - Month View clicked
+2019-10-01 15:33:23,308 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-10-01 15:33:23,308 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-01 15:49:00,279 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-01 15:49:00,752 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-01 15:49:02,972 - UDE Portalen -INFO - Overflow clicked
+2019-10-01 15:49:05,640 - UDE Portalen -INFO - Layout option clicked
+2019-10-01 15:49:07,971 - UDE Portalen -INFO - Month View clicked
+2019-10-01 15:49:35,661 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-10-01 15:49:35,661 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-01 15:52:56,766 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-01 15:52:57,307 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-01 15:52:59,529 - UDE Portalen -INFO - Overflow clicked
+2019-10-01 15:53:02,034 - UDE Portalen -INFO - Layout option clicked
+2019-10-01 15:53:04,323 - UDE Portalen -INFO - Month View clicked
+2019-10-01 15:53:32,052 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-10-01 15:53:32,052 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-01 15:58:41,215 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-01 15:58:42,097 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-01 15:58:45,004 - UDE Portalen -INFO - Overflow clicked
+2019-10-01 15:58:47,553 - UDE Portalen -INFO - Layout option clicked
+2019-10-01 15:58:49,864 - UDE Portalen -INFO - Month View clicked
+2019-10-01 15:59:17,989 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-10-01 15:59:17,990 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-01 16:01:01,165 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-01 16:01:01,747 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-01 16:01:03,947 - UDE Portalen -INFO - Overflow clicked
+2019-10-01 16:01:06,480 - UDE Portalen -INFO - Layout option clicked
+2019-10-01 16:01:08,792 - UDE Portalen -INFO - Month View clicked
+2019-10-01 16:01:36,895 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-10-01 16:01:36,896 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-03 14:16:49,177 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-03 14:16:49,917 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-03 14:16:52,132 - UDE Portalen -INFO - Overflow clicked
+2019-10-03 14:16:54,839 - UDE Portalen -INFO - Layout option clicked
+2019-10-03 14:16:57,194 - UDE Portalen -INFO - Month View clicked
+2019-10-03 14:17:25,591 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-10-03 14:17:25,591 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-03 14:32:59,842 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-03 14:33:00,326 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-03 14:33:02,785 - UDE Portalen -INFO - Overflow clicked
+2019-10-03 14:33:05,737 - UDE Portalen -INFO - Layout option clicked
+2019-10-03 14:33:08,064 - UDE Portalen -INFO - Month View clicked
+2019-10-03 14:33:12,112 - UDE Portalen -ERROR - Test Case Failed
+2019-10-03 14:33:12,112 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-03 15:17:27,288 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-03 15:17:27,648 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-03 15:17:30,074 - UDE Portalen -INFO - Overflow clicked
+2019-10-03 15:17:32,935 - UDE Portalen -INFO - Layout option clicked
+2019-10-03 15:17:35,271 - UDE Portalen -INFO - Month View clicked
+2019-10-03 15:17:39,317 - UDE Portalen -ERROR - Test Case Failed
+2019-10-03 15:17:39,317 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-03 15:20:37,357 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-03 15:20:37,715 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-03 15:20:40,041 - UDE Portalen -INFO - Overflow clicked
+2019-10-03 15:20:42,949 - UDE Portalen -INFO - Layout option clicked
+2019-10-03 15:20:45,283 - UDE Portalen -INFO - Month View clicked
+2019-10-03 15:20:49,318 - UDE Portalen -ERROR - Test Case Failed
+2019-10-03 15:20:49,318 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-03 15:54:30,535 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-03 15:54:31,120 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-03 15:54:33,560 - UDE Portalen -INFO - Overflow clicked
+2019-10-03 15:54:36,172 - UDE Portalen -INFO - Layout option clicked
+2019-10-03 15:54:40,109 - UDE Portalen -ERROR - Test Case Failed
+2019-10-03 15:54:40,110 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-03 16:39:15,250 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-03 16:39:15,717 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-03 16:39:18,124 - UDE Portalen -INFO - Overflow clicked
+2019-10-03 16:39:20,991 - UDE Portalen -INFO - Layout option clicked
+2019-10-03 16:39:25,049 - UDE Portalen -ERROR - Test Case Failed
+2019-10-03 16:39:25,050 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-03 16:45:03,528 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-03 16:45:03,978 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-03 16:45:06,335 - UDE Portalen -INFO - Overflow clicked
+2019-10-03 16:45:09,437 - UDE Portalen -INFO - Layout option clicked
+2019-10-03 16:45:13,431 - UDE Portalen -ERROR - Test Case Failed
+2019-10-03 16:45:13,431 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-03 16:51:46,965 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-03 16:51:47,389 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-03 16:51:49,755 - UDE Portalen -INFO - Overflow clicked
+2019-10-03 16:51:52,607 - UDE Portalen -INFO - Layout option clicked
+2019-10-03 16:51:56,654 - UDE Portalen -ERROR - Test Case Failed
+2019-10-03 16:51:56,655 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-03 16:55:02,458 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-03 16:55:02,896 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-03 16:55:05,293 - UDE Portalen -INFO - Overflow clicked
+2019-10-03 16:55:08,188 - UDE Portalen -INFO - Layout option clicked
+2019-10-03 16:55:12,234 - UDE Portalen -ERROR - Test Case Failed
+2019-10-03 16:55:12,235 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-03 17:11:02,549 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-03 17:11:03,020 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-03 17:11:05,378 - UDE Portalen -INFO - Overflow clicked
+2019-10-03 17:11:08,240 - UDE Portalen -INFO - Layout option clicked
+2019-10-03 17:11:12,331 - UDE Portalen -ERROR - Test Case Failed
+2019-10-03 17:11:12,331 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-15 14:54:24,565 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-15 14:54:25,120 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-15 14:54:27,963 - UDE Portalen -INFO - Overflow clicked
+2019-10-15 14:54:30,686 - UDE Portalen -INFO - Layout option clicked
+2019-10-15 14:54:34,963 - UDE Portalen -ERROR - Test Case Failed
+2019-10-15 14:54:34,964 - UDE Portalen -INFO -  ==== Photos App View Changed to Month View!! ===
+2019-10-15 15:09:26,610 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-15 15:09:27,056 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-15 15:09:29,419 - UDE Portalen -INFO - Overflow clicked
+2019-10-15 15:09:32,215 - UDE Portalen -INFO - Layout option clicked
+2019-10-15 15:09:36,326 - UDE Portalen -ERROR - Test Case Failed
+2019-10-15 15:09:36,326 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-15 15:12:41,506 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-15 15:12:42,033 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-15 15:12:44,453 - UDE Portalen -INFO - Overflow clicked
+2019-10-15 15:12:47,194 - UDE Portalen -INFO - Layout option clicked
+2019-10-15 15:12:51,285 - UDE Portalen -ERROR - Test Case Failed
+2019-10-15 15:12:51,286 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-15 15:18:07,695 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-15 15:18:08,148 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-15 15:18:10,518 - UDE Portalen -INFO - Overflow clicked
+2019-10-15 15:18:13,203 - UDE Portalen -INFO - Layout option clicked
+2019-10-15 15:18:17,297 - UDE Portalen -ERROR - Test Case Failed
+2019-10-15 15:18:17,298 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-15 15:22:53,029 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-15 15:22:53,657 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-15 15:22:56,622 - UDE Portalen -INFO - Overflow clicked
+2019-10-15 15:22:59,425 - UDE Portalen -INFO - Layout option clicked
+2019-10-15 15:23:03,495 - UDE Portalen -ERROR - Test Case Failed
+2019-10-15 15:23:03,495 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-15 15:27:00,833 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-15 15:27:01,338 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-15 15:27:03,798 - UDE Portalen -INFO - Overflow clicked
+2019-10-15 15:27:06,545 - UDE Portalen -INFO - Layout option clicked
+2019-10-15 15:27:10,686 - UDE Portalen -ERROR - Test Case Failed
+2019-10-15 15:27:10,686 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-15 15:29:42,095 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-15 15:29:42,549 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-15 15:29:44,961 - UDE Portalen -INFO - Overflow clicked
+2019-10-15 15:29:47,736 - UDE Portalen -INFO - Layout option clicked
+2019-10-15 15:29:54,542 - UDE Portalen -ERROR - Test Case Failed
+2019-10-15 15:29:54,543 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-15 15:39:30,852 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-15 15:39:31,414 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-15 15:39:33,919 - UDE Portalen -INFO - Overflow clicked
+2019-10-15 15:39:36,696 - UDE Portalen -INFO - Layout option clicked
+2019-10-15 15:39:40,809 - UDE Portalen -ERROR - Test Case Failed
+2019-10-15 15:39:40,809 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-15 15:42:36,824 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-15 15:42:37,311 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-15 15:42:39,768 - UDE Portalen -INFO - Overflow clicked
+2019-10-15 15:42:42,513 - UDE Portalen -INFO - Layout option clicked
+2019-10-15 15:42:46,628 - UDE Portalen -ERROR - Test Case Failed
+2019-10-15 15:42:46,629 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-15 15:45:12,566 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-15 15:45:13,075 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-15 15:45:15,554 - UDE Portalen -INFO - Overflow clicked
+2019-10-15 15:45:18,386 - UDE Portalen -INFO - Layout option clicked
+2019-10-15 15:45:24,654 - UDE Portalen -ERROR - Test Case Failed
+2019-10-15 15:45:24,655 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-15 15:57:09,271 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-15 15:57:09,825 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-15 15:57:12,278 - UDE Portalen -INFO - Overflow clicked
+2019-10-15 15:57:15,017 - UDE Portalen -INFO - Layout option clicked
+2019-10-15 15:57:17,463 - UDE Portalen -INFO - Month View clicked
+2019-10-15 15:57:24,950 - UDE Portalen -INFO - Verification: Photos view changed to Month view successfully
+2019-10-15 15:57:24,950 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-21 14:09:03,612 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-21 14:09:04,124 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-21 14:09:06,561 - UDE Portalen -INFO - Overflow clicked
+2019-10-21 14:09:09,446 - UDE Portalen -INFO - Layout option clicked
+2019-10-21 14:09:13,114 - UDE Portalen -ERROR - Test Case Failed
+2019-10-21 14:09:13,115 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-21 14:13:11,840 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-21 14:13:12,237 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-21 14:13:14,552 - UDE Portalen -INFO - Overflow clicked
+2019-10-21 14:13:17,490 - UDE Portalen -INFO - Layout option clicked
+2019-10-21 14:13:20,981 - UDE Portalen -ERROR - Test Case Failed
+2019-10-21 14:13:20,982 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-21 15:07:58,087 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-21 15:07:58,498 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-21 15:08:00,940 - UDE Portalen -INFO - Overflow clicked
+2019-10-21 15:08:03,844 - UDE Portalen -INFO - Layout option clicked
+2019-10-21 15:08:07,545 - UDE Portalen -ERROR - Test Case Failed
+2019-10-21 15:08:07,545 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-21 15:29:27,316 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-21 15:29:27,718 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-21 15:29:30,137 - UDE Portalen -INFO - Overflow clicked
+2019-10-21 15:29:33,006 - UDE Portalen -INFO - Layout option clicked
+2019-10-21 15:29:36,653 - UDE Portalen -ERROR - Test Case Failed
+2019-10-21 15:29:36,653 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-21 16:50:38,801 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-21 16:50:39,163 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-21 16:50:41,559 - UDE Portalen -INFO - Overflow clicked
+2019-10-21 16:50:44,491 - UDE Portalen -INFO - Layout option clicked
+2019-10-21 16:50:48,078 - UDE Portalen -ERROR - Test Case Failed
+2019-10-21 16:50:48,079 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-21 16:54:49,682 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-21 16:54:50,034 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-21 16:54:52,409 - UDE Portalen -INFO - Overflow clicked
+2019-10-21 16:54:55,330 - UDE Portalen -INFO - Layout option clicked
+2019-10-21 16:54:59,020 - UDE Portalen -ERROR - Test Case Failed
+2019-10-21 16:54:59,021 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-31 10:58:15,830 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-31 10:58:16,170 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-31 10:58:18,376 - UDE Portalen -INFO - Overflow clicked
+2019-10-31 10:58:21,304 - UDE Portalen -INFO - Layout option clicked
+2019-10-31 10:58:24,943 - UDE Portalen -ERROR - Test Case Failed
+2019-10-31 10:58:24,944 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-31 11:06:23,124 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-31 11:06:23,399 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-31 11:06:25,564 - UDE Portalen -INFO - Overflow clicked
+2019-10-31 11:06:28,522 - UDE Portalen -INFO - Layout option clicked
+2019-10-31 11:06:32,168 - UDE Portalen -ERROR - Test Case Failed
+2019-10-31 11:06:32,168 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-10-31 11:09:41,646 - UDE Portalen -INFO - Photos App Test Launch - Pass
+2019-10-31 11:09:42,836 - UDE Portalen -INFO - Confirm Button clicked
+2019-10-31 11:09:45,030 - UDE Portalen -INFO - Overflow clicked
+2019-10-31 11:09:47,391 - UDE Portalen -INFO - Layout option clicked
+2019-10-31 11:09:50,587 - UDE Portalen -ERROR - Test Case Failed
+2019-10-31 11:09:50,587 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-11-04 14:43:52,158 - UDE Portalen -INFO - Elev(Teacher/Student) App Launched
+2019-11-04 14:43:52,639 - UDE Portalen -INFO - Logg Inn Button clicked
+2019-11-04 14:43:54,761 - UDE Portalen -INFO - Overflow clicked
+2019-11-04 14:43:56,957 - UDE Portalen -INFO - Layout option clicked
+2019-11-04 14:43:59,704 - UDE Portalen -ERROR - Test Case Failed
+2019-11-04 14:43:59,861 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
+2019-11-06 17:23:31,656 - UDE Portalen -INFO - Elev(Teacher/Student) App Launched
+2019-11-06 17:23:32,602 - UDE Portalen -INFO - Logg Inn Button clicked
+2019-11-06 17:23:35,269 - UDE Portalen -INFO - Overflow clicked
+2019-11-06 17:23:37,693 - UDE Portalen -INFO - Layout option clicked
+2019-11-06 17:23:41,067 - UDE Portalen -ERROR - Test Case Failed
+2019-11-06 17:23:41,221 - UDE Portalen -INFO -  ==== Photos App View Change TC execution completed!! ===
