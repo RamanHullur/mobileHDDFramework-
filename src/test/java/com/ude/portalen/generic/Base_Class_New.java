@@ -166,7 +166,7 @@ public class Base_Class {
 	// first application launch
 	public WebDriver launch_first_app() throws MalformedURLException, InterruptedException {
 
-		// logger = Logger.getLogger("UDE Portalen");
+		// logger = Logger.getLogger("Test");
 		// PropertyConfigurator.configure("log4j.properties");
 		initiate_Logging();
 
@@ -192,8 +192,6 @@ public class Base_Class {
 		capabilities.setCapability("appPackage", "com.android.settings");
 		capabilities.setCapability("appActivity", "com.android.settings.Settings");
 
-		capabilities.setCapability("appPackage", "com.cgi.oslomelding");
-		capabilities.setCapability("appActivity", "com.cgi.oslomelding.MainActivity");
 
 		driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
 		System.out.println("======App1 Launching - Success======");
@@ -226,12 +224,10 @@ public class Base_Class {
 		capabilities.setCapability("resetKeyboard", true);
 		// capabilities.setCapability("noRest", true);
 
-		// capabilities.setCapability("appPackage", "com.google.android.apps.photos");
-		// capabilities.setCapability("appActivity",
-		// "com.google.android.apps.photos.home.HomeActivity");
+		 capabilities.setCapability("appPackage", "com.google.android.apps.photos");
+		 capabilities.setCapability("appActivity","com.google.android.apps.photos.home.HomeActivity");
 
-		capabilities.setCapability("appPackage", "com.cgi.oslomelding");
-		capabilities.setCapability("appActivity", "com.cgi.oslomelding.MainActivity");
+		
 
 		driver2 = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
 		System.out.println("======App2 Launching - Success======");
